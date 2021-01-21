@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO MY FRIEND 👋
  🌱 Estou aprendendo HTML e CSS e logo vou aprender 🧠 JavaScript
  
  🤔 Preciso de ajuda para aprender+ hehe...
