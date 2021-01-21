@@ -1,7 +1,7 @@
 ### Hi there 👋
- 🌱 Eu estou aprendendo HTML e CSS e logo vou aprender JavaScript
+ 🌱 Estou aprendendo HTML e CSS e logo vou aprender 🧠 JavaScript
  
- 🤔 EU estou preciso de ajuda para aprender+ e um mentor ou um trabalho para aprender hehe...
+ 🤔 Preciso de ajuda para aprender+ ou um mentor ou até um trabalho para aprender hehe...
  
 📫 Você pode me achar no instagram: https://www.instagram.com/kadmielcruz1/
 <!--
