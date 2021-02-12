@@ -1,7 +1,7 @@
 ### HELLO MY FRIEND 👋
  🌱 Estou aprendendo HTML e CSS e logo vou aprender 🧠 JavaScript
  
- 🤔 Preciso de ajuda para aprender+ hehe...
+ 🤔 e...
  
  💻Conhecimento em WordPress, cobrindo todo o processo de criação com o uso do editor de blocos Gutenberg
  
