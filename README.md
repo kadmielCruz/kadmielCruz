@@ -1,5 +1,5 @@
 ### HELLO MY FRIEND 👋
- 🌱 Estou aprendendo HTML e CSS e logo vou aprender 🧠 JavaScript
+ 🌱 Estou aprendendo HTML e CSS e 🧠 JavaScript
  
  🤔 e...
  
