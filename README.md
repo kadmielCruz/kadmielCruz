@@ -1,13 +1,22 @@
-### HELLO MY FRIEND 👋
- 🌱 Estou aprendendo HTML e CSS e 🧠 JavaScript
- 
- 🤔 e...
- 
- 💻Conhecimento em WordPress, cobrindo todo o processo de criação com o uso do editor de blocos Gutenberg
- 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kadmielCruz/2250373d8427f472642686b737eaf10e/raw/0486162b33270fbf82773335d42f845792c4f798/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kadmiel Cruz</h1>
+
 
 <!--
 **kadmielCruz/kadmielCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
 
